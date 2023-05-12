@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm DANISH YOUSUF</h1>
-<h3 align="center">A passionate Coder from India</h3>
+<h3 align="center">A passionate Coder from Jammu and Kashmir</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danishyousuf19&label=Profile%20views&color=0e75b6&style=flat" alt="danishyousuf19" /> </p>
-<p align="left"><img align="left" alt="Coding" width="200" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif"> </p>
-<p>
+
+
 - 🌱 I’m currently learning **DSA in JAVA**
 
 - 📫 How to reach me **danish019ah@gmail.com**
-<p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://in.linkedin.com/in/danish-yousuf-0b1aa6256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/danish-yousuf-0b1aa6256" height="30" width="40" /></a>
