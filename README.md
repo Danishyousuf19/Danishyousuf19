@@ -22,6 +22,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danishyousuf19&theme=vue&show_icons=true&locale=en&layout=compact" alt="danishyousuf19" /></p>
 
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=danishyousuf19&title=Followers,Commits,Repo&)"  alt="danishyousuf19" /></p>
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=danishyousuf19&theme=github-light&card_width=494" alt="danishyousuf19" /></p>
 
 
