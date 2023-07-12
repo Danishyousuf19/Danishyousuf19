@@ -9,8 +9,9 @@
 - 🌱 I’m currently learning **DSA in JAVA**
 
 - 📫 How to reach me **danish019ah@gmail.com**
-            
-      https://github.com/Danishyousuf19
+
+      
+https://github.com/Danishyousuf19
             
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +27,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danishyousuf19&theme=vue&show_icons=true&locale=en&layout=compact" alt="danishyousuf19" /></p>
 
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=danishyousuf19&title=Followers,Commits,Repo,Stars,Issues,Reviews&)"  alt="danishyousuf19" /></p>
+<!--<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=danishyousuf19&title=Followers,Commits,Repo,Stars,Issues,Reviews&)"  alt="danishyousuf19" /></p>-->
 
 
 
