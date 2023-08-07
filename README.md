@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danishyousuf19&label=Profile%20views&color=brightgreen&style=flat" alt="danishyousuf19" /> </p>
 
 
-- 🌱 I’m currently learning **DSA in JAVA**
+- 🌱 I’m currently learning **DSA in JAVA and Web Development**
 
 - 📫 How to reach me **danish019ah@gmail.com**
 
