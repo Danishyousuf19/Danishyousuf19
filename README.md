@@ -1,17 +1,26 @@
 <h1 align="center"> السَّلَامُ عَلَيْكُمْ </h1>
-<h1 align="center">  I'm DANISH YOUSUF</h1>
+<h1 align="center"> 👋 Hello, I'm DANISH YOUSUF</h1>
 <!-- <h3 align="center">A passionate Coder from Jammu and Kashmir</h3> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danishyousuf19&label=Profile%20views&color=brightgreen&style=flat" alt="danishyousuf19" /> </p>
 
 
-- 🌱 I’m currently learning **DSA in JAVA and Web Development**
 
-- 📫 How to reach me **danish019ah@gmail.com**
+🏞️ Hailing from the beautiful region of Jammu and Kashmir 🏔️, I'm currently on an exciting coding journey at ITER, Odisha 🌟 pursuing my B.Tech in Computer Science 🎓.
 
-      
-      https://github.com/Danishyousuf19
+💻 My Passion: I'm deeply passionate about coding and all things tech. My skills span across a variety of domains:
+
+🌐 Web Development: I craft stunning and functional websites using HTML and CSS, making the web a better place, one line of code at a time.
+
+☕ Java Enthusiast: Java is not just a programming language; it's my playground for building robust applications and exploring endless possibilities.
+
+🧠 Data Structures and Algorithms: I thrive on solving complex problems efficiently. DSA is my toolkit for optimizing code and finding elegant solutions.
+
+🚀 Always Learning: The world of technology never stands still, and neither do I. I'm on a perpetual quest for knowledge and growth.
+
+📚 Check out my latest projects and contributions below. Happy coding! 👩‍💻
+
             
 <h3 align="left">Connect with me:</h3>
 <p align="left">
