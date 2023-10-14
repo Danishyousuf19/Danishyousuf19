@@ -6,22 +6,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danishyousuf19&label=Profile%20views&color=brightgreen&style=flat" alt="danishyousuf19" /> </p>
 
 
+🏞️ From the scenic landscapes of Jammu and Kashmir 🏔️, I’m now exploring the world of code at ITER, Odisha,🌟 pursuing a B.Tech in Computer Science.
 
-🏞️ Hailing from the beautiful region of Jammu and Kashmir 🏔️, I'm currently on an exciting coding journey at ITER, Odisha 🌟 pursuing my B.Tech in Computer Science 🎓.
+I’m passionate about tech and coding. My skills include:
 
-💻 My Passion: I'm deeply passionate about coding and all things tech. My skills span across a variety of domains:
+🌐 Web Development: I create beautiful, functional websites with HTML and CSS.
 
-🌐 Web Development: I craft stunning and functional websites using HTML and CSS, making the web a better place, one line of code at a time.
+☕ Java: I use Java  to build robust applications.
 
-☕ Java Enthusiast: Java is not just a programming language; it's my playground for building robust applications and exploring endless possibilities.
+🧠 Data Structures and Algorithms : I use DSA to solve complex problems efficiently.
 
-🧠 Data Structures and Algorithms: I thrive on solving complex problems efficiently. DSA is my toolkit for optimizing code and finding elegant solutions.
+🚀 Lifelong Learner: I’m always learning and growing in the ever-evolving tech world.
 
-🚀 Always Learning: The world of technology never stands still, and neither do I. I'm on a perpetual quest for knowledge and growth.
+📚 Check out my latest projects below. Happy coding! 👩‍💻         
 
-📚 Check out my latest projects and contributions below. Happy coding! 👩‍💻
-
-            
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/danish-yousuf-0b1aa6256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/danish-yousuf-0b1aa6256/" height="30" width="40" /></a>
