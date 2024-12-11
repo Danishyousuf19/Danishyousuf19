@@ -1,5 +1,11 @@
 <h1 align="center"> السَّلَامُ عَلَيْكُمْ </h1>
 <h1 align="center"> 👋 Hello, I'm DANISH YOUSUF</h1>
+<h1 align="center" style="color: red;">
+    <a href="https://www.kaggle.com/danishyousuf19" style="text-decoration: none; color: red;">
+        VISIT MY KAGGLE ACCOUNT FOR MY CURRENT WORK
+    </a>
+</h1>
+
 <!-- <h3 align="center">A passionate Coder from Jammu and Kashmir</h3> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
