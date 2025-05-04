@@ -11,24 +11,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danishyousuf19&label=Profile%20views&color=brightgreen&style=flat" alt="danishyousuf19" /> </p>
 
+ I’m passionate about **software development**, currently exploring **Machine Learning**, **Deep Learning**, and **AI**. I love building real-world solutions and continuously growing my skills.
 
+---
 
-🏞️ From the scenic landscapes of **Jammu and Kashmir**, I’m currently studying at **ITER, Odisha**, pursuing **B.Tech in Computer Science**.
+### 💡 Skills
 
-I’m passionate about coding, building creative solutions, and exploring the world of AI/ML and software development.
-<h3 align="center">💡 Skills</h3>
+- **Web Development**: HTML5, CSS3, Bootstrap, Jquery  
+- **Languages**: Python, C, C++, Java  
+- **ML Tools**: Scikit-learn, TensorFlow  
+- **DSA**: Strong problem-solving foundation  
+- **OOP**: Java 
+- **Version Control**: Git & GitHub  
+- **Learning**: Deep Learning, AI
 
-🌐 Web Development: I create beautiful, functional websites with HTML and CSS.
+---
 
-📈 Machine Learning (Sklearn, TensorFlow)
-
-☕ Java: I use Java  to build robust applications.
-
-🧠 Data Structures and Algorithms : I use DSA to solve complex problems efficiently.
-
-🚀 Lifelong Learner: I’m always learning and growing in the ever-evolving tech world.
-
-📚 Check out my latest projects below. Happy coding! 👩‍💻         
+📂 Check out my projects  — open to learning & collaboration! 👩‍💻
+        
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,6 +46,9 @@ I’m passionate about coding, building creative solutions, and exploring the wo
   <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
