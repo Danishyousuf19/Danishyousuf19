@@ -72,10 +72,11 @@ I love building real-world solutions and continuously growing my skills.
 ### 📊 GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danishyousuf19&langs_count=10&theme=vue&layout=compact&exclude_repo=large-notebook-repo-name" alt="Top 10 Languages" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=danishyousuf19&theme=github-light" alt="Streaks" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=danishyousuf19&theme=github-light&card_width=494" alt="GitHub Streak" /></p>
 
 <br clear="left"/>
+
 
 
 ### 📁 Projects
