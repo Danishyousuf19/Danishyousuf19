@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hello, I'm DANISH YOUSUF</h1>
 
 <h1 align="center">
-    <a href="https://www.kaggle.com/danishyousuf19" target="_blank" font_size:20px; style="text-decoration: none; color: red;">
+    <a href="https://www.kaggle.com/danishyousuf19" target="_blank" font_size:20px; style="text-decoration: underline; color: red;">
         🚀 VISIT MY KAGGLE ACCOUNT FOR MY CURRENT WORK
     </a>
 </h1>
