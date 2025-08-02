@@ -2,9 +2,15 @@
 <h1 align="center">👋 Hello, I'm DANISH YOUSUF</h1>
 
 <h1 align="center">
-    <a href="https://www.kaggle.com/danishyousuf19" target="_blank" font_size:20px; style="text-decoration: underline; color: red;">
-        🚀 VISIT MY KAGGLE ACCOUNT FOR MY CURRENT WORK
-    </a>
+    <p align="center">
+  <a href="https://www.kaggle.com/danishyousuf19" target="_blank" style="font-size: 18px; text-decoration: none; color: #20BEFF; font-weight: bold;">
+    📊 Visit My Kaggle Profile
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://danishyousuf19.vercel.app/" target="_blank" style="font-size: 18px; text-decoration: none; color: #FF5733; font-weight: bold;">
+    🌐 Check Out My Portfolio
+  </a>
+</p>
 </h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
