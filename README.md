@@ -84,7 +84,3 @@ I love building real-world solutions and continuously growing my skills.
 <br clear="left"/>
 
 
-
-### 📁 Projects
-📂 Check out my repositories – always open to collaboration and feedback!
-
