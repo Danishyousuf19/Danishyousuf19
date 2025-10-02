@@ -83,6 +83,6 @@ I love building real-world solutions and continuously growing my skills.
 
 <br clear="left"/>
 
-## CHECKOUT
+## CHECK OUT
 https://danishyousuf19.github.io/Top-DSA-Interview-Question-By-Shradha-Khapra-and-the-Apna-College-Team/
 
