@@ -86,7 +86,7 @@ I love building real-world solutions and continuously growing my skills.
 <h3 align="start">
     <p align="start">
 <a href="https://danishyousuf19.github.io/Top-DSA-Interview-Question-By-Shradha-Khapra-and-the-Apna-College-Team/" target="_blank" style="font-size: 18px; text-decoration: none; color: #FF0000; font-weight: bold;">
-     DSA  PREPARATION WEBSITE FOR YOU
+     DSA QUESTION FOR YOU
   </a>
 </p>
 </h3>
