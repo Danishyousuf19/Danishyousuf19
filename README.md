@@ -3,11 +3,11 @@
 
 <h1 align="center">
     <p align="center">
-  <a href="https://www.kaggle.com/danishyousuf19" target="_blank" style="font-size: 18px; text-decoration: none; color: #20BEFF; font-weight: bold;">
+  <a href="https://www.kaggle.com/danishyousuf19" target="_blank" style="font-size: 18px; text-decoration: none; color: #ff0000; font-weight: bold;">
     📊 Visit My Kaggle Profile
   </a>
   &nbsp;|&nbsp;
-  <a href="https://danishyousuf19.vercel.app/" target="_blank" style="font-size: 18px; text-decoration: none; color: #FF5733; font-weight: bold;">
+  <a href="https://danishyousuf19.vercel.app/" target="_blank" style="font-size: 18px; text-decoration: none; color: #ff0000; font-weight: bold;">
     🌐 Check Out My Portfolio
   </a>
 </p>
@@ -83,6 +83,10 @@ I love building real-world solutions and continuously growing my skills.
 
 <br clear="left"/>
 
-## CHECK OUT
-https://danishyousuf19.github.io/Top-DSA-Interview-Question-By-Shradha-Khapra-and-the-Apna-College-Team/
-
+<h3 align="start">
+    <p align="start">
+<a href="https://danishyousuf19.github.io/Top-DSA-Interview-Question-By-Shradha-Khapra-and-the-Apna-College-Team/" target="_blank" style="font-size: 18px; text-decoration: none; color: #FF0000; font-weight: bold;">
+     DSA  PREPARATION WEBSITE FOR YOU
+  </a>
+</p>
+</h3>
