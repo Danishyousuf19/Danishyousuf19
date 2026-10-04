@@ -13,6 +13,11 @@
 
     
 </p>
+<div align="center">
+  <a href="https://pixilz.lovable.app/">
+    <img src="https://img.shields.io/badge/Access_All_in_1_Image_editor-FF0000?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</div>
 
 ---
 
@@ -58,8 +63,4 @@ Beyond academic research, I am a Kaggle Notebooks Expert, experienced in applyin
 
 <br clear="left"/>
 
-<div align="center">
-  <a href="https://danishyousuf19.github.io/Top-DSA-Interview-Question-By-Shradha-Khapra-and-the-Apna-College-Team/">
-    <img src="https://img.shields.io/badge/🔥_Access_Top_DSA_Questions-FF0000?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</div>
+
