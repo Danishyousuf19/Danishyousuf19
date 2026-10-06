@@ -24,7 +24,6 @@ I am an **AI Engineer** undergoing professional training as a DSE Trainee, trans
 
 Operating at the intersection of corporate engineering and academic research, my expertise covers a broad spectrum of Machine Learning and Deep Learning. I build and scale end-to-end AI solutions, backed by a strong portfolio of hands-on research and applied projects. Specifically, my research experience encompasses Multimodal Deep Learning architectures, Explainable AI (XAI) frameworks, and foundational Reinforcement Learning, allowing me to tackle complex, real-time challenges with transparent and adaptive models.
 
-As a Kaggle Notebooks Expert, I thrive on bridging the gap between complex algorithms and real-world impact by building robust, production-ready applications.
 
 ---
 
@@ -34,7 +33,7 @@ As a Kaggle Notebooks Expert, I thrive on bridging the gap between complex algor
 - **Generative AI & LLMs**: LangChain, LangGraph
 - **Backend & APIs**: FastAPI, Flask, Microservices
 - **Languages**: Python, Java, C, C++
-- **Web & UI**: HTML, CSS, BootStrap, JQuery
+- **Web & UI**: HTML, CSS, BootStrap, JQuery, SFML-Game Development
 - **Core Engineering**: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)
 
 ---
